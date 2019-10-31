@@ -44,3 +44,12 @@ This section covered the fundamentals of Linux and common services you will see 
 The most interesting part of this section for me was Linux privilege escalation. eLearnSecurity gave a fantastic breadth of things to enumerate when performing post exploitation and multiple vectors to use instead of the traditional Kernel exploit approach. One invaluable resource that I will paste down below that I used in addition to this section for privilege escalation is a blog post from g0tm1lk. 
 
 <https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/>
+
+### Web App Security
+
+The web app section of the course inspired me to move away from my traditional networking background and expand my knowledge in the web app field. Considering most companies are powered by web applications, this is a very important area for penetration testers and web app pentesters are in high demand. The course does a great job at covering a majority of the OWASP Top 10 including XSS, SQLi, XXE, etc., and it goes into more niche ones such as LFI/RFI and CSRF. 
+
+Though not every vector for attacking web applications was discussed in this section, eLearnSecurity also offers two web application pentesting courses: the eWPT and the exteme version, the eWPTX. I will definitely pursue my eWPT after I complete the OSCP. 
+
+
+
